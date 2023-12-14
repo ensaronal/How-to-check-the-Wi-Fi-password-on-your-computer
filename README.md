@@ -8,10 +8,6 @@ In the Command Prompt window, type the command ( click windows key+r and then wr
 and then press Enter key.
 
 
-
-
-
-
 Fox example: 
 Netsh wlan show profile name=”WLAN2_5G2” key=clear
 , WLAN2_5G2 is a Wi-Fi name that has been connected currently. 
