@@ -2,7 +2,7 @@
 
 If you forgot the Wi-Fi password of existing networks on your computer, this article describes two methods to check the password.
 
-In the Command Prompt window, type the command
+In the Command Prompt window, type the command ( click windows key+r and then write cmd and then click enter )
 
 [Netsh wlan show profile name=”Wi-F name” key=clear]
 
