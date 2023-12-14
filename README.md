@@ -4,7 +4,7 @@ If you forgot the Wi-Fi password of existing networks on your computer, this art
 
 In the Command Prompt window, type the command 
 [Netsh wlan show profile name=”Wi-F name” key=clear]
-, and then press Enter key. 
+, and then press Enter key.
 
 Fox example: Netsh wlan show profile name=”WLAN2_5G2” key=clear, WLAN2_5G2 is a Wi-Fi name that has been connected currently. 
 
