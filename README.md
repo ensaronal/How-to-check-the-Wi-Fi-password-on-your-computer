@@ -1,5 +1,8 @@
 [Windows 11/10] How to check the Wi-Fi password on your computer
 
-Just open your terminal by clicking windows key+r and then write cmd and click enter. And write this code block ;
+If you forgot the Wi-Fi password of existing networks on your computer, this article describes two methods to check the password.
 
-Netsh wlan show profile name="wifi name" key=clear
+In the Command Prompt window, type the command [Netsh wlan show profile name=”Wi-F name” key=clear], and then press Enter key.
+
+Fox example: Netsh wlan show profile name=”WLAN2_5G2” key=clear, WLAN2_5G2 is a Wi-Fi name that has been connected currently. 
+
